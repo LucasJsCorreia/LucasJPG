@@ -134,7 +134,7 @@ nav ul li {
 }
 
 nav ul li a {
-  /*color: var(--text-color-light); ============ GAMBIARRA */
+  color: var(--text-color-light);
   transition: color 0.2s;
   position: relative;
   }
